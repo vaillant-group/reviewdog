@@ -26,7 +26,7 @@ require (
 	github.com/vvakame/sdlog v1.2.0
 	github.com/xanzy/go-gitlab v0.95.2
 	go.opencensus.io v0.24.0
-	golang.org/x/build v0.0.0-20230906094020-6ed658a430ec
+	golang.org/x/build v0.0.0-20231211211230-7d9d9906b3c1
 	golang.org/x/oauth2 v0.15.0
 	golang.org/x/sync v0.5.0
 	google.golang.org/protobuf v1.31.0
@@ -61,12 +61,12 @@ require (
 	golang.org/x/net v0.19.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
-	golang.org/x/time v0.3.0 // indirect
+	golang.org/x/time v0.5.0 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
-	google.golang.org/api v0.128.0 // indirect
+	google.golang.org/api v0.136.0 // indirect
 	google.golang.org/appengine v1.6.8-0.20221117013220-504804fb50de // indirect
 	google.golang.org/genproto v0.0.0-20230821184602-ccc8af3d0e93 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230803162519-f966b187b2e5 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20230803162519-f966b187b2e5 // indirect
-	google.golang.org/grpc v1.57.1 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230807174057-1744710a1577 // indirect
+	google.golang.org/grpc v1.58.2 // indirect
 )
